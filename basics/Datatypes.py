@@ -1,4 +1,4 @@
-# Topic: Data Types
+# Topic:-Python Data Types
 # Part of my Python learning journey
 
 # Integer
