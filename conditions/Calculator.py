@@ -1,5 +1,5 @@
-# Title: Python Calculator using Conditional Statements
-# Theory:
+# Title: Python Calculator using Conditional Statements.
+# Theory:-
 # This program takes two numbers as input from the user.
 # It displays a menu of operations (Addition, Subtraction, Multiplication, Division).
 # Based on user choice, it performs the selected operation using if-elif conditions.
