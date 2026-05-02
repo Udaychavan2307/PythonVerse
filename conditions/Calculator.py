@@ -1,4 +1,4 @@
-# Title: Python Calculator using Conditional Statements.
+# Title:- Python Calculator using Conditional Statements.
 # Theory:-
 # This program takes two numbers as input from the user.
 # It displays a menu of operations (Addition, Subtraction, Multiplication, Division).
