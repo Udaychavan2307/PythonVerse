@@ -1,4 +1,4 @@
-# Topic: Operators in Python
+# Topic:- Operators in Python
 
 a = 10
 b = 5
